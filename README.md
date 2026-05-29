@@ -49,6 +49,12 @@ despite lower revenue. Scaling these could significantly improve overall profita
 
 Any discount above 20% destroys margin. At 50%+, the company loses $1.19 for every $1 sold.
 
+## Business Recommendations
+1. **Cap discounts at 20%** — any discount above this threshold destroys margin
+2. **Reassess Marketing Suite pricing** — currently sold at a loss
+3. **Scale Alchemy and SaaS Connector Pack - Gold** — highest margin products in the portfolio
+4. **Double down on SMB segment** — higher LTV and more consistent purchasing behavior than Enterprise
+
 ### 👥 SMB Segment Outperforms Enterprise
 Counterintuitively, SMB customers have the highest average LTV ($12,097) vs Enterprise ($5,653).
 SMB clients buy more frequently and sustain the business.
