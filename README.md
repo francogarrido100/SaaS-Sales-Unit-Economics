@@ -12,7 +12,7 @@ The goal was to identify profitability drivers, pricing inefficiencies, and cust
 
 The results of this analysis were connected to **Google Looker Studio** to build a high-level executive dashboard for strategic decision-making.
 
-* **Live Dashboard Link:** [SaaS Sales & Unit Economics Dashboard](PEGAR_ACA_EL_LINK_DE_TU_LOOKER_STUDIO)
+* **Live Dashboard Link:** https://datastudio.google.com/s/iV86ADL2rvM
 
 ---
 
