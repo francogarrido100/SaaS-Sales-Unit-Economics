@@ -62,4 +62,4 @@ SMB clients buy more frequently and sustain the business.
 ├── unit_economics_results.xlsx    # Processed data tables used for BI input
 └── README.md                      # Project documentation and insights
 
-## Data Used: https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales
+Data Used: https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales
