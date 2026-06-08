@@ -2,6 +2,8 @@
 
 > **The business was generating $2.3M in revenue with a 12.5% net margin — but 18.7% of transactions were losing money.** This analysis identifies exactly why, and what to do about it.
 
+📄 **[Read the executive business case →](business_case_recuperacion_margen.md)** — a decision-ready summary for leadership: the problem in one sentence, the four root causes quantified, and a prioritized 90-day action plan with estimated margin recovery ($110K–$160K/year). No code, just the recommendation.
+
 ---
 
 ## The Business Problem
